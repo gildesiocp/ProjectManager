@@ -1,0 +1,6 @@
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\DTO\bin\Debug\DTO.dll
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\DTO\bin\Debug\DTO.pdb
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\DTO\obj\Debug\DTO.csproj.AssemblyReference.cache
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\DTO\obj\Debug\DTO.csproj.CoreCompileInputs.cache
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\DTO\obj\Debug\DTO.dll
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\DTO\obj\Debug\DTO.pdb

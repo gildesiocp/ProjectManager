@@ -1,0 +1,6 @@
+exec uspClienteInseriR '15897927000300','MUNDIPHARMA BRASIL PRODUTOS MEDICOS E FARMACEUTICOS LTDA','AV GUIDO CALOI','1935','BLOCO B CONJ.2','04854873','SANTO AMARO','SAO PAULO','SP'
+
+
+exec uspClienteConsultarPorNome '%'
+
+exec uspClienteConsultarPorCnpjCpf 

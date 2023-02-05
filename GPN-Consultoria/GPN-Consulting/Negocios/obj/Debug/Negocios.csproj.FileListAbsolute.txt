@@ -1,0 +1,12 @@
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\Negocios\bin\Debug\Negocios.dll
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\Negocios\bin\Debug\Negocios.pdb
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\Negocios\bin\Debug\AcessoBancoDados.dll
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\Negocios\bin\Debug\DTO.dll
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\Negocios\bin\Debug\AcessoBancoDados.pdb
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\Negocios\bin\Debug\AcessoBancoDados.dll.config
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\Negocios\bin\Debug\DTO.pdb
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\Negocios\obj\Debug\Negocios.csproj.AssemblyReference.cache
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\Negocios\obj\Debug\Negocios.csproj.CoreCompileInputs.cache
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\Negocios\obj\Debug\Negocios.csproj.CopyComplete
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\Negocios\obj\Debug\Negocios.dll
+D:\Horizon Software\Projects\GPN-Consultoria\GPN-Consulting\Negocios\obj\Debug\Negocios.pdb
